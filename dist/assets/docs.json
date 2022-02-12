@@ -1,0 +1,78 @@
+[{
+  "id": 1,
+  "name": "VIS-01",
+  "desc": "VIS 0.15um (front-end/back-end 0.18um/0.15um) BCD",
+  "foundry_id": 1,
+  "foundry": "Vanguard",
+  "tech_id": 1,
+  "tech": "0.15um",
+  "type_id": 1,
+  "type": "BCD",
+  "updated_at": "2018/06/04",
+  "remark": "0.15um BCD gen2",
+  "docs": [
+    {
+      "doc_id": 1,
+      "doc_name": "VT-015-CB-DL-004-C1",
+      "doc_title": "VIS-01 device list",
+      "category_id": 1,
+      "category": "device list",
+      "size": 13493.5,
+      "eff_date": "2017/14/12",
+      "remark": "add(1) hvnpn2a_hs",
+      "version": "0.11A",
+      "link":"https://www.google.com"
+    },
+    {
+      "doc_id": 2,
+      "doc_name": "VT-015-CB-PC-005",
+      "doc_title": "VIS-01 SPEC",
+      "category_id": 2,
+      "category": "PCM SPEC",
+      "size": "463.1",
+      "eff_date": "2017/14/12",
+      "remark": "1 modify MIP_cap_CV SPEC2",
+      "version": "0.1",
+      "link":"https://www.google.com"
+    }
+  ]
+},
+{
+  "id": 2,
+  "name": "HG-01",
+  "desc": "HG-01 Embedded Superflash Ultra Low Leakage",
+  "foundry_id": 2,
+  "foundry": "HHGrace",
+  "tech_id": 2,
+  "tech": "0.11um",
+  "type_id": 2,
+  "type": "flash",
+  "updated_at": "2021/01/08",
+  "remark": "",
+  "docs": [
+    {
+      "doc_id": 3,
+      "doc_name": "HG-01-CB-DL-004-C1",
+      "doc_title": "HG-01 device list",
+      "category_id": 1,
+      "category": "device list",
+      "size": "13493.5",
+      "eff_date": "2017/14/12",
+      "remark": "add(1) hvnpn2a_hs",
+      "version": "0.11A",
+      "link":"https://www.google.com"
+    },
+    {
+      "doc_id": 4,
+      "doc_name": "HG-01-CB-PC-005",
+      "doc_title": "HG-01 SPEC",
+      "category_id": 2,
+      "category": "PCM SPEC",
+      "size": "463.1",
+      "eff_date": "2017/14/12",
+      "remark": "HG-01 1 modify MIP_cap_CV SPEC2",
+      "version": "0.3",
+      "link":"https://www.google.com"
+    }
+  ]
+}]
